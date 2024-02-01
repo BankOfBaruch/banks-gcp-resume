@@ -4,5 +4,5 @@ My own GCP resume, following [ACG project video.](https://www.youtube.com/watch?
 ## First Steps
 
 - Frontend folder contains the website.
-- main.js contains vistor counter code.
+- main.js contains visitor counter code.
 
